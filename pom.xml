@@ -219,7 +219,7 @@
                 <version>2.2</version>
                 <configuration>
                     <shadedArtifactAttached>false</shadedArtifactAttached>
-                    <outputFile>target/SparkStreamingScenarios.jar</outputFile>
+                    <outputFile>target/spark-examples.jar</outputFile>
                     <artifactSet>
                         <includes>
                             <include>*:*</include>
